@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+            <item
+                android:id="@+id/news"
+                    android:icon="@drawable/n"
+                android:title="News Updates"
+                android:checked="false"/>
+
+            <item
+                android:id="@+id/motels"
+                android:icon="@drawable/motelsav"
+                android:title="Nearby Motels" />
+
+    <item
+                android:id="@+id/overspeed"
+                android:icon="@drawable/overspeed"
+                android:checked="true"
+                android:title="Speed Limit" />
+
+</menu>

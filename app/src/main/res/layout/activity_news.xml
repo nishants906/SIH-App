@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#f7f7f7"
+        android:layout_margin="12dp"
+        android:orientation="vertical">
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="6dp"
+            android:padding="4dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:text="Indian Woman Killed, Husband Critically Injured In Dubai Road Accident."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:layout_marginTop="2dp"
+                android:text="An Indian woman was killed and her husband was critically injured after their car crashed into a truck in Dubai."
+                android:textColor="#919191"/>
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+        android:layout_marginTop="6dp"
+
+        android:padding="4dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:text="Mr Rajendran injured his head and chest and was rushed to a hospital where he died."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:layout_marginTop="2dp"
+                android:text="The 62-year-old lawmaker, S Rajendran, who represented Villupuram parliamentary constituency, was on his way to Tindivanam in the district with his driver when his car hit a divider, a senior police official told NDTV. "
+                android:textColor="#919191"/>
+
+        </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="6dp"
+            android:padding="4dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:text="12 Killed After Head-On Collision Between Two Cars In Ujjain."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:layout_marginTop="2dp"
+                android:text="12 people were killed, while 2 sustained serious injuries in a road accident in Ujjain district of Madhya Pradesh today."
+                android:textColor="#919191"/>
+
+        </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="6dp"
+            android:padding="4dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:text="Two Odisha policemen killed in road accident, 29 injured."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12dp"
+                android:layout_marginTop="2dp"
+                android:text="The jawans were on their way to Banharpalli where chief minister is scheduled to inaugurate two units of Odisha Power Generation Corporation today."
+                android:textColor="#919191"/>
+
+        </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="6dp"
+            android:padding="4dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:text="UK's Prince Philip Apologises To Woman Injured In Car Crash: Report."/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14dp"
+                android:text="Britain's Prince Philip has said he is deeply sorry about the injury suffered by a woman in a car crash he was involved in over a week ago, according to a report in the Sunday Mirror."
+                android:textColor="#919191"/>
+
+        </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="6dp"
+            android:padding="4dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:text="Ex-Minister Gopinath Munde's Nephew Wants Probe After Expert's Wild Claim."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14dp"
+                android:text="Nationalist Congress Party or NCP leader Dhananjay Munde has demanded a probe either by the RAW or a Supreme Court judge into the death of his uncle and former union minister Gopinath Munde after a cyber expert claimed that the BJP leader was killed as he was aware of hacking of electronic voting machines (EVMs) in the 2014 Lok Sabha polls."
+                android:textColor="#919191"/>
+
+        </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="6dp"
+            android:padding="4dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:text="Car Damaged By Bicycle After Collision. Viral Pic Has Internet Baffled."/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14dp"
+                android:text="Car Damaged By Bicycle After Collision. Viral Pic Has Internet Baffled"
+                android:textColor="#919191"/>
+
+        </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="6dp"
+            android:padding="4dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:text="3 Students In Andhra Pradesh Killed In Car Accident, 5 Others Injured"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14dp"
+                android:text="Three engineering students died Monday when a car, allegedly driven at a speed of over 160 km, hit a road divider and rammed into a municipal garbage truck in Guntur district, police said."
+                android:textColor="#919191"/>
+
+        </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+    </LinearLayout>
+</ScrollView>
